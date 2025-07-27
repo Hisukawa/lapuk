@@ -50,13 +50,13 @@ const data = {
     ],
     navMain: [
         {
-            title: "Playground",
+            title: "Playground ni Joey",
             url: "#",
             icon: SquareTerminal,
             isActive: true,
             items: [
                 {
-                    title: "History",
+                    title: "History ni Joey",
                     url: "#",
                 },
                 {
