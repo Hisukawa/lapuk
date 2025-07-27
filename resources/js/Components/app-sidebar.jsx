@@ -79,7 +79,7 @@ const data = {
                     url: "#",
                 },
                 {
-                    title: "Explorer",
+                    title: "Dora the Explorer",
                     url: "#",
                 },
                 {
