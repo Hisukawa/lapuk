@@ -60,7 +60,7 @@ const data = {
                     url: "#",
                 },
                 {
-                    title: "Starred",
+                    title: "Starred ",
                     url: "#",
                 },
                 {
@@ -75,7 +75,7 @@ const data = {
             icon: Bot,
             items: [
                 {
-                    title: "Genesis",
+                    title: "Genesis ni ken",
                     url: "#",
                 },
                 {
