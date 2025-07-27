@@ -60,7 +60,7 @@ const data = {
                     url: "#",
                 },
                 {
-                    title: "Starred ",
+                    title: "He Starred on July 27, 2025",
                     url: "#",
                 },
                 {
