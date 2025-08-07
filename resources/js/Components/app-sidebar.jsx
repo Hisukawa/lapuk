@@ -56,7 +56,7 @@ const data = {
             isActive: true,
             items: [
                 {
-                    title: "History ni Joey",
+                    title: "History",
                     url: "#",
                 },
                 {
